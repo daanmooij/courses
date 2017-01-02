@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+  <course>
+    <title>Writing READMEs</title>
+    <subject>Markdown</subject>
+    <publisher>Udacity</publisher>
+    <creator>Udacity</creator>
+    <mediator>Walter Latimer</mediator>
+    <identifier>ud777</identifier>
+    <source>https://www.udacity.com/courses/ud777</source>
+    <description>In this course, you'll learn what documentation is and why it's an important part of the development process. You'll learn how to build a well-structured README that you'll be able to incorporate into your projects moving forward. By the end of this course, you will have written your very own README file using Markdown</description>
+  </course>
+  <course>
+    <title>Linux Command Line Basics</title>
+    <subject>Linux CLI</subject>
+    <subject>GNU Bash</subject>
+    <publisher>Udacity</publisher>
+    <creator>Udacity</creator>
+    <mediator>Philip Mallory</mediator>
+    <mediator>Karl Krueger</mediator>
+    <identifier>ud595</identifier>
+    <source>https://www.udacity.com/courses/ud595</source>
+    <description>In this course, you'll learn the basics of the command line interface of a Linux server: the terminal and shell (GNU Bash). This course includes an introduction to files and directories in the Linux filesystem.</description>
+  </course>
+  <course>
+      <title>Configuring Linux Web Servers</title>
+      <subject>PostgreSQL</subject>
+      <subject>Apache HTTP Server</subject>
+      <subject>Linux security</subject>
+      <subject>Vagrant</subject>
+      <publisher>Udacity</publisher>
+      <creator>Udacity</creator>
+      <mediator>Michael Wales</mediator>
+      <identifier>ud299</identifier>
+      <source>https://www.udacity.com/courses/ud299</source>
+      <description>In this course you'll learn the basic Linux fundamentals every web developer needs to know to share their web applications with the world! You'll get a basic Python WSGI application up and running within a Vagrant virtual machine that queries data from a PostgreSQL database.
+
+You'll start by exploring various Linux distributions and learning the differences between a number of them. You'll then explore how the Linux operating system differs from other operating systems you may be more familiar with. With this base knowledge, you'll then move into Linux security - covering topics such as file permissions, user management, package management and configuring firewalls. Finally, you'll transform a safe and secure baseline server into a web application server by installing and configuring the Apache HTTP Server and PostgreSQL database server.</description>
+  </course>
+  <course>
+    <title>Perl 5 Essential Training</title>
+    <subject>Perl 5</subject>
+    <publisher>LinkedIn</publisher>
+    <creator>LinkedIn</creator>
+    <mediator>Bill Weinman</mediator>
+    <source>https://www.linkedin.com/learning/perl-5-essential-training</source>
+    <description>Perl is a powerful and flexible scripting language that is uniquely suited to website development, system administration, and network programming. Perl 5 was originally released in 1994, and continues to evolve. The "Modern Perl" movement has embraced its mature syntax and reusable modules. Bill Weinman has designed this course to give the Perl student enough command of the language to write efficient and effective Perl scripts and maintain existing codebases.
+
+Watch to learn the details of the Perl syntax, from variables, conditionals, loops, and data structures to regular expressions, functions, and references. A quick-start guide is included for experienced developers who want to get up and running with Perl 5 fast, and the entire course is recommended for both new and experienced programmers alike. Later chapters cover file handling and reusing code with Perl modules, plus Perl best coding practices.</description>
+  </course>
+  <course>
+    <title>WordPress Essential Training</title>
+    <subject>WordPress</subject>
+    <publisher>LinkedIn</publisher>
+    <creator>LinkedIn</creator>
+    <mediator>Morten Rand-Hendriksen</mediator>
+    <source>https://www.linkedin.com/learning/wordpress-essential-training</source>
+    <description>WordPress powers millions of blogs and websites. Learn how to create your own with this powerful publishing platform. Staff author Morten Rand-Hendriksen will help you get the most out of the self-hosted version of WordPress and create feature-rich blogs and websites. Morten explains how to create and publish posts and pages; customize your site with themes, widgets, and custom menus; and extend WordPress even further with plugins. Plus, learn how to get more readers with social media sharing and comments, and how to adjust the settings that keep your site safe and secure.</description>
+  </course>
+  <course>
+    <title>PHP</title>
+    <subject>PHP</subject>
+    <publisher>Codecademy</publisher>
+    <creator>Codecademy</creator>
+    <source>https://www.codecademy.com/learn/php</source>
+    <description>By end the end of this course, you'll have gained familiarity with a very convenient, flexible server-side language: PHP. You'll be exposed to many fundamental programming concepts such as data types, functions, control flow, and more.
+
+PHP is one of the simplest server-side languages out there, and it was designed primarily for web development. Learning PHP is good not only because it adds one more language to your toolbelt, but also because there is a large number of sites currently built with Wordpress, a content management system (CMS) built with PHP.</description>
+  </course>
+  <course>
+    <title>jQuery</title>
+    <subject>jQuery</subject>
+    <publisher>Codecademy</publisher>
+    <creator>Codecademy</creator>
+    <source>https://www.codecademy.com/learn/jquery</source>
+    <description>You'll learn how to add interactivity and animations to a website while getting introduced to JavaScript. By the end of the course, you'll have practiced how to do this in several projects, and you'll get a chance to add functionality to the project you built at the end of the Make a Website course.
+
+Learning jQuery is the fastest and easiest way to add interactivity and animation to your website. Not only is it a great way to get introduced to the what JavaScript can help you accomplish, but this lightweight library will also let you leverage the HTML and CSS skills you've already learned. You're on your way to becoming one potent front-end developer!</description>
+  </course>
+  <course>
+    <title>JavaScript</title>
+    <subject>JavaScript</subject>
+    <publisher>Codecademy</publisher>
+    <creator>Codecademy</creator>
+    <source>https://www.codecademy.com/learn/javascript</source>
+    <description>This course will teach what the most fundamental programming concepts are and how to use them. You'll learn about data types, functions, loops, control flow, and objects. In the end, you'll get a chance to put everything together to build your own game!
+
+JavaScript is the programming language of the web. It's one of the most popular and in demand skills in today's job market for good reason. JavaScript not only enables you to add powerful interactions to websites, but is also the foundation of a lot of commonly used libraries (like jQuery) and frameworks (like AngularJS, ReactJS and NodeJS). As a web developer, it is essential that you have a solid understanding of this versatile language.</description>
+  </course>
+  <course>
+    <title>HTML &amp; CSS</title>
+    <subject>HTML</subject>
+    <subject>CSS</subject>
+    <publisher>Codecademy</publisher>
+    <creator>Codecademy</creator>
+    <source>https://www.codecademy.com/learn/web</source>
+    <description>By the end of this course, you'll learn the basics of HTML and CSS and how to structure and style your webpage.
+
+Everything you see in a website is a result of the combination of HTML and CSS. With these two languages, you will have the skills you need to bring your website design to life.</description>
+  </course>
+  <course>
+    <title>Learn Java</title>
+    <subject>Java</subject>
+    <publisher>Codecademy</publisher>
+    <creator>Codecademy</creator>
+    <source>https://www.codecademy.com/learn/learn-java</source>
+    <description>In this course you'll be exposed to fundamental programming concepts, including object-oriented programming (OOP) using Java. You'll build 7 Java projects—like a basic calculator—to help you practice along the way.
+
+Java is among the most popular programming languages out there, mainly because of how versatile and compatible it is. Java can be used for a large number of things, including software development, mobile applications, and large systems development. Knowing Java opens a great deal of doors for you as a developer.</description>
+  </course>
+  <course>
+    <title>Learn SQL</title>
+    <subject>SQL</subject>
+    <publisher>Codecademy</publisher>
+    <creator>Codecademy</creator>
+    <contributor>Periscope Data</contributor>
+    <source>https://www.codecademy.com/learn/learn-sql</source>
+    <description>In this course, you'll learn how to communicate with relational databases through SQL. You'll learn—and practice with 4 projects—how to manipulate data and build queries that communicate with more than one table.
+
+We live in a data-driven world now, and with all that data, people have to search through it to find insights to help inform strategy, marketing, operations, and a plethora of other categories. There are a ton of business that use large, relational databases, which makes basic understanding of SQL is a great employable skill not only for data scientists, but for almost everyone.</description>
+  </course>
+  <course>
+    <title>Learn Git</title>
+    <subject>Git</subject>
+    <publisher>Codecademy</publisher>
+    <creator>Codecademy</creator>
+    <source>https://www.codecademy.com/learn/learn-git</source>
+    <description>Git, simply put, is a tool to save versions of your code. This course will show you basic workflow and core features, different ways to undo changes or save multiple versions of a project, and how to collaborate with other developers.
+
+Ever have a "I lost all my work and I have a deadline the next day" moment? Git is the most popular version control tool - something that developers use to save all relevant versions of their work to avoid moments like those. Git also makes it easy for developers to collaborate and share work with others!</description>
+  </course>
+  <course>
+    <title>Learn the Command Line</title>
+    <subject>Linux CLI</subject>
+    <subject>GNU Bash</subject>
+    <publisher>Codecademy</publisher>
+    <creator>Codecademy</creator>
+    <source>https://www.codecademy.com/learn/learn-the-command-line</source>
+    <description>By the end of the course, you will be able to navigate, access, and modify files and folders on your computer—all without a mouse!
+
+We use our mouse and fingers to click images of icons and access files, programs, and folders on our devices. However, this is just one way for us to communicate with computers. The command line is a quick, powerful, text-based interface developers use to more effectively and efficiently communicate with computers to accomplish a wider set of tasks. Learning how to use it will allow you to discover all that your computer is capable of!</description>
+  </course>
+  <course>
+    <title>Make a Website</title>
+    <subject>HTML5</subject>
+    <subject>CSS3</subject>
+    <subject>Bootstrap</subject>
+    <publisher>Codecademy</publisher>
+    <creator>Codecademy</creator>
+    <source>https://www.codecademy.com/learn/make-a-website</source>
+    <description>You'll build four simple websites using web development fundamentals, including HTML5/CSS3 and Bootstrap. You'll learn to understand and modify the structure of basic website, as well as how to change the way a page looks and is laid out.
+
+Everything you see in a website is a result of the combination of HTML and CSS. With these two languages, you will have the skills you need to bring your website design to life. Jumpstart that vision by using Bootstrap, a popular library that allows you to create beautiful, responsive pages with very little time and experience.</description>
+  </course>
+  <course>
+    <title>Responsive Website Basics: Code with HTML, CSS, and JavaScript</title>
+    <subject>HTML</subject>
+    <subject>CSS</subject>
+    <subject>JavaScript</subject>
+    <subject>Bootstrap</subject>
+    <publisher>Coursera</publisher>
+    <creator>University of London</creator>
+    <creator>Goldsmiths, University of London</creator>
+    <mediator>Dr Matthew Yee-King</mediator>
+    <mediator>Dr Marco Gillies</mediator>
+    <mediator>Dr Kate Devlin</mediator>
+    <isPartOf>Responsive Website Development and Design Specialization</isPartOf>
+    <source>https://www.coursera.org/learn/website-coding</source>
+    <description>In this course you will learn three key website programming and design languages: HTML, CSS and JavaScript. You will create a web page using basic elements to control layout and style.  Additionally, your web page will support interactivity.</description>
+  </course>
+  <course>
+    <title>The Data Scientist’s Toolbox</title>
+    <subject>Git</subject>
+    <subject>GitHub</subject>
+    <subject>R</subject>
+    <subject>RStudio</subject>
+    <subject>Markdown</subject>
+    <publisher>Coursera</publisher>
+    <creator>Johns Hopkins University</creator>
+    <mediator>Jeff Leek</mediator>
+    <mediator>Roger D. Peng, PhD</mediator>
+    <mediator>Brian Caffo</mediator>
+    <isPartOf>Data Science Specialization</isPartOf>
+    <source>https://www.coursera.org/learn/data-scientists-tools</source>
+    <description>In this course you will get an introduction to the main tools and ideas in the data scientist's toolbox. The course gives an overview of the data, questions, and tools that data analysts and data scientists work with. There are two components to this course. The first is a conceptual introduction to the ideas behind turning data into actionable knowledge. The second is a practical introduction to the tools that will be used in the program like version control, markdown, git, GitHub, R, and RStudio.</description>
+  </course>
+  <course>
+    <title>Introduction to Computer Science</title>
+    <subject>C</subject>
+    <subject>PHP</subject>
+    <subject>JavaScript</subject>
+    <subject>SQL</subject>
+    <subject>CSS</subject>
+    <subject>HTML</subject>
+    <publisher>edX</publisher>
+    <creator>Harvard University</creator>
+    <mediator>David J. Malan</mediator>
+    <mediator>Rob Bowden</mediator>
+    <mediator>Zamyla Chan</mediator>
+    <mediator>Doug Lloyd</mediator>
+    <identifier>CS50x</identifier>
+    <source>https://www.edx.org/course/introduction-computer-science-harvardx-cs50x</source>
+    <description>This is CS50x, Harvard University's introduction to the intellectual enterprises of computer science and the art of programming for majors and non-majors alike, with or without prior programming experience. An entry-level course taught by David J. Malan, CS50x teaches students how to think algorithmically and solve problems efficiently. Topics include abstraction, algorithms, data structures, encapsulation, resource management, security, software engineering, and web development. Languages include C, PHP, and JavaScript plus SQL, CSS, and HTML. Problem sets inspired by real-world domains of biology, cryptography, finance, forensics, and gaming. As of Fall 2015, the on-campus version of CS50x, CS50, was Harvard's largest course.
+
+Students who earn a satisfactory score on 9 problem sets (i.e., programming assignments) and a final project will receive a certificate from HarvardX. This is a self-paced course–you may take CS50x on your own schedule.</description>
+  </course>
+  <course>
+    <title>Introduction to Python for Data Science</title>
+    <subject>Python</subject>
+    <subject>Numpy</subject>
+    <subject>Matplotlib</subject>
+    <subject>Pandas</subject>
+    <publisher>edX</publisher>
+    <creator>Microsoft</creator>
+    <creator>DataCamp</creator>
+    <mediator>Filip Schouwenaars</mediator>
+    <identifier>DAT208x</identifier>
+    <isPartOf>Microsoft Professional Program Certificate in Data Science</isPartOf>
+    <source>https://www.edx.org/course/introduction-python-data-science-microsoft-dat208x</source>
+    <description>Python is a very powerful programming language used for many different applications. Over time, the huge community around this open source language has created quite a few tools to efficiently work with Python. In recent years, a number of tools have been built specifically for data science. As a result, analyzing data with Python has never been easier.
+
+In this practical course, you will start from the very beginning, with basic arithmetic and variables, and learn how to handle data structures, such as Python lists, Numpy arrays, and Pandas DataFrames. Along the way, you’ll learn about Python functions and control flow. Plus, you’ll look at the world of data visualizations with Python and create your own stunning visualizations based on real data.</description>
+  </course>
+  <course>
+    <title>Introduction to Bootstrap - A Tutorial</title>
+    <subject>Bootstrap</subject>
+    <publisher>edX</publisher>
+    <creator>Microsoft</creator>
+    <mediator>Christopher Harrison</mediator>
+    <identifier>DEV203x</identifier>
+    <source>https://www.edx.org/course/introduction-bootstrap-tutorial-microsoft-dev203x</source>
+    <description>Bootstrap is an open source project originally created by Twitter to enable creation of responsive, mobile first web pages. Bootstrap has a standard set of classes that allow developers to quickly create applications that scale to devices of all sizes, and incorporate common components such as dialog boxes and validation. Bootstrap has become a de facto standard for web design.
+ 
+This course is designed to be a primer on Bootstrap. By the end of the three modules you will have gained the knowledge to create pages common to all web applications, and implement the most frequently used components and classes provided by Bootstrap. You will also see how to use the tooling provided by Visual Studio to assist you in creating pages as quickly as possible.</description>
+  </course>
+  <course>
+    <title>Statistics Fundamentals - Part 1: Beginning</title>
+    <subject>Statistics</subject>
+    <publisher>LinkedIn</publisher>
+    <creator>LinkedIn</creator>
+    <mediator>Eddie Davila</mediator>
+    <source>https://www.linkedin.com/learning/statistics-fundamentals-part-1-beginning</source>
+    <description>Statistics is not just the realm of data scientists. All types of jobs use statistics. Statistics are important for making decisions, new discoveries, investments, and predictions. Whether the subject is political races, sports rankings, shopping trends, or healthcare advancements, statistics is an instrument for understanding your favorite topic at a deeper level. With these beginner-level lessons, you too can master the terms, formulas, and techniques needed to perform the most common types of statistics.
+
+Professor Eddie Davila covers statistics basics, like calculating averages, medians, modes, and standard deviations. He shows how to use probability and distribution curves to inform decisions, and how to detect false positives and misleading data. Each concept is covered in simple language, with detailed examples that show how statistics are used in real-world scenarios from the worlds of business, sports, education, entertainment, and more. These techniques will help you understand your data, prove theories, and save time, money, and other valuable resources—all by understanding the numbers.</description>
+  </course>
+</courses>
