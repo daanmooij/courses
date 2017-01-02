@@ -1,16 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <courses>
   <course>
-    <title>Writing READMEs</title>
-    <subject>Markdown</subject>
-    <publisher>Udacity</publisher>
-    <creator>Udacity</creator>
-    <mediator>Walter Latimer</mediator>
-    <identifier>ud777</identifier>
-    <source>https://www.udacity.com/courses/ud777</source>
-    <description>In this course, you'll learn what documentation is and why it's an important part of the development process. You'll learn how to build a well-structured README that you'll be able to incorporate into your projects moving forward. By the end of this course, you will have written your very own README file using Markdown</description>
-  </course>
-  <course>
     <title>Linux Command Line Basics</title>
     <subject>Linux CLI</subject>
     <subject>GNU Bash</subject>
@@ -21,6 +11,16 @@
     <identifier>ud595</identifier>
     <source>https://www.udacity.com/courses/ud595</source>
     <description>In this course, you'll learn the basics of the command line interface of a Linux server: the terminal and shell (GNU Bash). This course includes an introduction to files and directories in the Linux filesystem.</description>
+  </course>
+  <course>
+    <title>Writing READMEs</title>
+    <subject>Markdown</subject>
+    <publisher>Udacity</publisher>
+    <creator>Udacity</creator>
+    <mediator>Walter Latimer</mediator>
+    <identifier>ud777</identifier>
+    <source>https://www.udacity.com/courses/ud777</source>
+    <description>In this course, you'll learn what documentation is and why it's an important part of the development process. You'll learn how to build a well-structured README that you'll be able to incorporate into your projects moving forward. By the end of this course, you will have written your very own README file using Markdown</description>
   </course>
   <course>
       <title>Configuring Linux Web Servers</title>
