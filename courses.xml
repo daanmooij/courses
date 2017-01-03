@@ -7,6 +7,18 @@
     <title>Java Programmeren</title>
   </course>
   <course>
+  	<title>How to Use Git and GitHub</title>
+  	<subject>Git</subject>
+  	<subject>GitHub</subject>
+  	<publisher>Udacity</publisher>
+  	<creator>Udacity</creator>
+  	<mediator>Caroline Buckey</mediator>
+  	<mediator>Sarah Spikes</mediator>
+  	<identifier>ud775</identifier>
+  	<source>https://www.udacity.com/courses/ud775</source>
+  	<description>Effective use of version control is an important and useful skill for any developer working on long-lived (or even medium-lived) projects, especially if more than one developer is involved. This course, built with input from GitHub, will introduce the basics of using version control by focusing on a particular version control system called Git and a collaboration platform called GitHub.</description>
+  </course>
+  <course>
     <title>Linux Command Line Basics</title>
     <subject>Linux CLI</subject>
     <subject>GNU Bash</subject>
